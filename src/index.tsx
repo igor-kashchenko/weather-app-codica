@@ -11,7 +11,7 @@ import { store } from './redux/store';
 const Root: React.FC = () => (
   <Provider store={store}>
     <ThemeProvider theme={theme}>
-      <Router>
+      <Router basename='weather-app-codica'>
         <App />
       </Router>
     </ThemeProvider>
