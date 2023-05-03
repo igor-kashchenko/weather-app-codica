@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/weather-app-codica/static/css/main.620cee54.css",
-    "main.js": "/weather-app-codica/static/js/main.a39edad4.js",
+    "main.js": "/weather-app-codica/static/js/main.75bde13d.js",
     "static/media/Mont-Regular.ttf": "/weather-app-codica/static/media/Mont-Regular.e797167c18f9897bb607.ttf",
     "static/media/Mont-SemiBold.ttf": "/weather-app-codica/static/media/Mont-SemiBold.0b5e68ebb36ca4006e21.ttf",
     "static/media/Mont-Bold.ttf": "/weather-app-codica/static/media/Mont-Bold.3675b597d3ffb2b75168.ttf",
     "index.html": "/weather-app-codica/index.html",
     "main.620cee54.css.map": "/weather-app-codica/static/css/main.620cee54.css.map",
-    "main.a39edad4.js.map": "/weather-app-codica/static/js/main.a39edad4.js.map"
+    "main.75bde13d.js.map": "/weather-app-codica/static/js/main.75bde13d.js.map"
   },
   "entrypoints": [
     "static/css/main.620cee54.css",
-    "static/js/main.a39edad4.js"
+    "static/js/main.75bde13d.js"
   ]
 }
