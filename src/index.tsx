@@ -4,14 +4,14 @@ import './index.css';
 import { App } from './App';
 import { ThemeProvider } from '@mui/material';
 import { theme } from './theme/theme';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import { store } from './redux/store';
 
 const Root: React.FC = () => (
   <Provider store={store}>
     <ThemeProvider theme={theme}>
-      <Router basename='weather-app-codica'>
+      <Router>
         <App />
       </Router>
     </ThemeProvider>
